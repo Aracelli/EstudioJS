@@ -1,0 +1,20 @@
+{
+  "name": "case_de_estudio_con_javascript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aracelli/EstudioJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aracelli/EstudioJS/issues"
+  },
+  "homepage": "https://github.com/Aracelli/EstudioJS#readme"
+}
